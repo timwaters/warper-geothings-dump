@@ -1,0 +1,21 @@
+README
+
+
+The warper application on warper.geothings.net has moved to mapwarper.net
+
+There you will find dumps of the maps, layers and control points in CSV format (tab separated) and links to the source and georectified maps
+
+Map Images
+Source Images
+Map Cropping Masks (GML)
+
+
+44447 Maps maps.csv Tab separated file
+Layers
+Maps could belong to a layer and be mosaiced or stitched together
+
+141 Layer layers.csv Tab separated file
+Control Points (GCPS)
+
+27409 Ground Control Points gcps.csv Tab separated file
+
