@@ -1,0 +1,142 @@
+id	updated_at	created_at	description	name	bbox
+3	2009-05-23 16:17:52	2009-05-14 05:12:47	From Scans of Out Of Copyright OS Maps.	Some of Andrews Oxford Maps	-1.262792,51.741164,-1.233477,51.759290
+4	2009-05-14 05:43:43	2009-05-14 05:36:22	just my leeds maps all bundled up	some Leeds maps	-1.583920,53.815583,-1.572091,53.827502
+7	2009-05-23 16:26:41	2009-05-23 16:26:40	All of Andrew's Oxford maps/	Oxford Maps	-1.277300,51.741091,-1.219115,51.768487
+9	2009-06-22 07:23:40	2009-06-22 07:23:40		Neapel	NULL
+10	2009-06-23 13:02:37	2009-06-23 13:02:37		Rusken	NULL
+11	2009-06-23 13:02:41	2009-06-23 13:02:41		Rusken	NULL
+12	2009-06-30 22:35:00	2009-06-30 22:35:00		Frankenburg	NULL
+13	2010-01-24 12:45:23	2009-08-22 09:43:22	Layer aus eigenen Luftbildern	Heilbronn	9.158410,49.093799,9.231843,49.148386
+14	2009-08-24 15:41:36	2009-08-24 15:41:36	jeje	storvik	NULL
+15	2009-08-24 15:48:25	2009-08-24 15:48:25	test	foolayer	NULL
+16	2009-08-26 11:59:49	2009-08-26 11:59:47	Own aerial images	Northeim	9.961138,51.707072,9.999229,51.753677
+17	2010-06-27 09:35:04	2009-09-07 01:35:00		Donard1911	-6.630809,52.997622,-6.567686,53.027179
+18	2009-12-11 02:27:28	2009-09-14 05:09:14	OS maps from 1882-1912 for Ipswich, Suffolk	Ipswich	1.122868,52.042877,1.198658,52.079256
+19	2009-09-15 15:18:37	2009-09-15 11:23:36	1:1,000,000 - International Map of the World. U.S. Army Map Service -\n\nTopographic Map -\n\nfrom Perry-CastaÃ±eda Library Map Collection -\n\nParakou, West Africa\nSheet NC 31\nSeries 1301\n3rd revision -\n\nTogo, Benin, Nigeria --\n\nCourtesy of the University of Texas Libraries, The University of Texas at Austin.	Parakou, West Africa	-0.061121,7.973980,6.143196,12.025158
+20	2009-09-15 17:08:13	2009-09-15 16:40:48		Forecariah	-13.998644,9.112413,-13.082803,10.074435
+21	2009-09-18 06:43:31	2009-09-15 18:23:21		Stratford upon Avon	-1.741320,52.179997,-1.670031,52.212239
+22	2009-09-16 14:55:42	2009-09-16 14:55:42	Current maps of Kibera	Kibera	36.766657,-1.328329,36.811384,-1.292588
+23	2009-09-17 05:24:39	2009-09-17 05:24:39		Very Old Map of Hersfeld	NULL
+24	2009-09-18 09:46:37	2009-09-18 09:46:36	Some high detail stuff from central stratford as an experimentation.	Andy's Stratford	-1.715158,52.189660,-1.695543,52.197752
+25	2009-09-20 15:50:35	2009-09-20 11:22:00	Aerial imagery test utilising Hugin for combining bunches of photographs.	Matt's Stratford-upon-Avon	-1.684991,52.192172,-1.667807,52.202196
+27	2009-09-28 09:25:54	2009-09-28 09:25:54	Bois de Boulogne	Bois de Boulogne	NULL
+28	2009-10-03 09:55:40	2009-10-03 09:33:31	lopra og akrar	lopra	-6.781953,61.437815,-6.757123,61.457358
+29	2009-10-04 13:08:56	2009-10-04 13:08:56		kleve	NULL
+30	2009-11-06 09:37:42	2009-11-06 09:37:42	test	test	NULL
+31	2009-12-09 02:07:40	2009-11-12 11:55:01		MIT Balloon Test	-71.092007,42.357237,-71.085051,42.361091
+32	2009-12-05 05:09:48	2009-11-30 09:59:33	Bartholomew street-plan of Glasgow, probably dating from 1899-1912 - definitely before the railway reorganisation of the early 1920s. 'Reduced with permission' from OS, so assuming copyright expired sometime before 1965.	Bartholomew's Pocket Plan of Glasgow	-4.355367,55.825214,-4.192158,55.887952
+33	2009-12-09 16:07:18	2009-12-09 16:07:18	Just a test layer, feel free to remove.	TestXlkjwww	NULL
+34	2010-01-18 09:34:31	2009-12-11 08:32:51		Warwick Uni from the detailed ones	-1.569126,52.373971,-1.552612,52.382922
+35	2009-12-13 09:10:07	2009-12-13 08:59:07		Walheim	9.115152,49.002706,9.163048,49.025211
+36	2009-12-14 08:00:12	2009-12-14 07:27:10		Royal Scientific Society of Jordan	35.877425,32.023755,35.878757,32.025199
+37	2009-12-14 12:00:31	2009-12-14 12:00:31	pabellon site plan	test	NULL
+38	2010-01-11 14:34:10	2010-01-11 14:34:10		bas	NULL
+40	2010-01-16 11:37:33	2010-01-16 11:37:33		test	NULL
+42	2010-01-23 15:02:22	2010-01-23 15:02:22		University of Michigan Arboretum	NULL
+43	2010-01-25 14:22:22	2010-01-25 14:22:22		Gotland, Sweden	NULL
+44	2010-01-27 13:22:40	2010-01-26 21:20:16		Juan Pablo II	-76.951251,-12.231992,-76.948836,-12.230350
+45	2010-01-27 07:59:14	2010-01-27 07:59:14		test	NULL
+46	2010-01-30 16:45:25	2010-01-30 16:45:25		San Ignacio Loyola	-76.946601,-12.235546,-76.945143,-12.234434
+47	2010-02-07 04:49:23	2010-02-07 04:49:23		Wels Traun	NULL
+49	2010-02-09 10:44:40	2010-02-09 10:44:40		Genk	5.386534,50.908243,5.588586,51.037287
+50	2010-02-09 14:24:37	2010-02-09 14:24:26	http://www.jonathanthejester.org.uk/KevinBurke.jpg	KevinBurke	NULL
+51	2010-02-19 00:19:27	2010-02-19 00:19:27		ã¦ï½“ï½”	NULL
+52	2010-02-22 07:15:11	2010-02-22 07:15:11		Portobello	NULL
+53	2010-02-24 19:12:53	2010-02-24 19:12:53	Augustus Koch 1873	 San Antonio 1873 Birds Eye Map	NULL
+54	2010-02-26 09:53:45	2010-02-26 09:53:45	Mapa Miasta Ustronia, sfinasowana przez UM UstroÅ„, tablice przy Rynku oraz ul. SÅ‚onecznej w Ustroniu. Mapa Public Domain	UstroÅ„, Mapa Miasta	18.778453,49.682953,18.874372,49.749993
+55	2010-03-02 23:57:07	2010-03-02 23:57:07	raster	TestMap	NULL
+56	2010-03-03 00:00:32	2010-03-03 00:00:32		TestLayer	NULL
+59	2010-03-13 12:44:07	2010-03-13 11:39:10	Publikator: Dziennik UrzÄ™dowy wojewÃ³dztwa lubelskiego 22 luty 2005, nr 27, poz. 827.\n/UchwaÅ‚a Nr XXII/111/2004 Rady Gminy Rejowiec z dnia 27 paÅºdziernika 2004r. w sprawie uchwalenia miejscowego planu zagospodarowania Gminy Rejowiec/\nTa mapa nie podlega pod prawa autorskie. Jest zatem wÅ‚asnoÅ›ciÄ… publicznÄ…, poniewaÅ¼ nie nosi znamion utworu.	Gmina Rejowiec	23.236206,51.068649,23.301040,51.126574
+61	2010-03-23 17:50:01	2010-03-23 17:50:01	Outbound Route #7 departs METRO Pulse at Elm St.,\nPortland, and travels North on Congress St. with stops\nalong Washington Ave. and Veranda St. before heading\nto Route #1 in Falmouth, with stops at Wal-Mart, Shops\nat Falmouth Village & Shawâ€™s.\n\nTown Landing Loop service departs METRO Pulse at\n6:30 a.m. & 7:30 a.m. & 3:30, 4:30, 5:30 & 6:30 (p.m.),\ncontinuing North on Route #1 after stopping at Shawâ€™s,\nright onto Johnson Rd., right on Route #88 and right on\nDepot Rd, returning to Shawâ€™s, Wal-Mart and Shops at\nFalmouth Village, then returning inbound to Portland\nwith stops along Route #1, Veranda Street, Washington\nAve. and Congress St.\n\nOceanView Loop service departs METRO Pulse at\n8:30, 9:30, 10:30, 11:30 (a.m.) & 12:30, 1:30, 2:30\n(p.m.) travelling left on Bucknam Rd. after leaving\nShawâ€™s, left on Middle Rd., to OceanView (on Blueberry\nLane), Falmouth Rd. then returning to Shawâ€™s, Wal-\nMart and Shops at Falmouth Village, before returning\ninbound to Portland with stops along Route #1, Veranda Street, Washington Ave. and Congress St.	METRO Route #7	-70.273509,43.656109,-70.202088,43.740715
+62	2010-03-23 20:06:24	2010-03-23 20:06:24	Munjoy Hill / St. John Street / Mercy at the Fore	METRO Route #1	-70.287752,43.641437,-70.239745,43.674872
+64	2010-03-31 00:01:30	2010-03-31 00:01:30		Old Alum Rock	NULL
+65	2010-04-03 03:05:51	2010-04-03 03:05:51	test	Brodtest	NULL
+66	2010-04-05 04:25:41	2010-04-05 04:25:41		etst	NULL
+67	2010-05-13 02:01:25	2010-05-13 02:01:24	Fragment mapy "Istebna i okolice - Trasy MTB" opracowanej na zlecenie UG Istebna. Mapa prezentowana w terenie:\n- Istebna Tartak\n- Istebna Zaolzie\n- KoniakÃ³w Pietraszyna	Istebna i okolice - Trasy MTB	18.824186,49.504380,19.062947,49.632051
+71	2010-06-11 09:03:58	2010-06-11 09:03:58		collection	NULL
+72	2010-06-12 02:33:08	2010-06-12 02:33:08		tuzla 1	NULL
+73	2010-06-22 09:16:04	2010-06-22 09:16:04	Map of Public City-Buses in Oviedo, Spain	Oviedo TUA	NULL
+74	2010-06-24 08:18:24	2010-06-24 08:18:24	Ð¿Ð¾Ð»Ð¸Ð³Ð¾Ð½	Ð¿Ð¾Ð»Ð¸Ð³Ð¾Ð½	NULL
+75	2010-07-01 12:50:34	2010-07-01 11:56:45		EastTampa	-82.464642,27.954856,-82.380717,28.012946
+76	2010-07-05 23:22:13	2010-07-05 23:04:42	Luftbild Layer Kreis Heilbronn	Heilbronn	1.202241,6.410110,13.185664,70.332555
+77	2010-07-06 14:36:47	2010-07-06 14:36:47		IÅ‚owa	15.188151,51.492555,15.208829,51.500398
+80	2010-07-14 20:17:48	2010-07-14 20:17:48	campus map	UNH	NULL
+81	2010-07-27 07:22:21	2010-07-27 07:22:21	testing test bgc	teszt map	NULL
+83	2010-07-29 04:58:55	2010-07-29 04:58:55		JulienMappy	NULL
+85	2010-08-08 13:31:16	2010-08-08 12:17:57		Luftaufnahmen Schweiz	8.272376,46.949005,8.305861,47.024692
+86	2010-08-13 06:08:22	2010-08-11 03:20:30	http://home.arcor.de/holgerneubert12/Goerlitz2.html\n\nhttp://wiki.openstreetmap.org/wiki/User:MartinDornfelder	GÃ¶rlitz	14.969368,51.117913,14.993399,51.133404
+89	2010-08-30 10:24:31	2010-08-30 10:24:31		RS	NULL
+91	2010-09-10 17:35:42	2010-09-10 16:22:22		UnaÃ­	-46.900719,-16.374151,-46.893288,-16.364312
+92	2010-09-20 08:47:15	2010-09-20 08:47:15	test	test	NULL
+93	2010-09-20 08:48:00	2010-09-20 08:48:00	xxx	xxx	NULL
+94	2010-09-22 21:07:00	2010-09-22 21:07:00	Corvera, Murcia	Corvera Airport	NULL
+95	2010-09-22 21:10:22	2010-09-22 21:10:22	moscow	test	NULL
+96	2010-10-10 02:17:50	2010-10-10 02:17:50	How does this work?	Pafstext	NULL
+97	2010-10-11 03:23:03	2010-10-11 03:23:03		abc	NULL
+98	2010-10-13 15:51:11	2010-10-13 15:51:11		UVM Central Campus Green	-73.198562,44.477138,-73.195022,44.479547
+99	2010-10-21 17:31:31	2010-10-21 17:31:31	Competition site for Design Against the Elements 2010, Taguig City, Manila, Philippines	Taguig City Site	NULL
+100	2010-10-28 12:32:07	2010-10-24 08:51:23	Mapa topograficzna Å»agania	Å»agaÅ„ Topo	15.292013,51.603305,15.319552,51.618789
+101	2010-11-02 17:38:41	2010-11-02 17:38:40		Test	-74.037586,40.674624,-73.934961,40.739894
+102	2010-11-08 22:11:34	2010-11-08 22:11:33	tetst1	test1	-73.074035,-41.152866,-71.198191,-33.679420
+103	2010-11-17 14:39:15	2010-11-17 14:39:15		Åodygowice	NULL
+105	2010-12-01 07:00:00	2010-12-01 07:00:00	test	test	NULL
+107	2010-12-16 05:13:27	2010-12-16 05:13:27		Servidumbre	NULL
+108	2011-01-21 02:25:32	2011-01-16 06:09:51		Brockhaus rent layer	30.191630,59.894178,30.441559,59.987879
+110	2011-02-10 04:49:30	2011-02-10 04:49:30		test	NULL
+111	2011-02-23 13:11:49	2011-02-23 13:11:49		upload test	NULL
+112	2011-03-02 06:23:06	2011-03-01 19:41:02	This is an Historic FIRM for a community in South Carolina	Historic FIRM - Flood Map	-79.843614,32.756147,-79.701280,32.839958
+113	2011-03-02 14:53:01	2011-03-02 14:53:01	An index map refenencing about 74 sheets that cover Unincorporated Brevard County in or around 1980	FIRM Index Map, Brevard County, Fl	NULL
+114	2011-03-13 10:59:13	2011-03-13 10:59:13	Image from Google post Japan earthquake March 11th	Sendai Yuriage neighborhood detail after	NULL
+115	2011-03-16 15:48:30	2011-03-16 15:48:30	AAAV A DFDF	LOC	NULL
+116	2011-03-23 18:42:28	2011-03-23 18:42:28	A town in NZ	Feilding	NULL
+117	2011-04-12 02:37:59	2011-04-12 02:37:59	1	1	NULL
+118	2011-04-12 02:39:11	2011-04-12 02:39:11	2	2	NULL
+119	2011-04-20 05:36:01	2011-04-20 05:36:01		LF	NULL
+120	2011-04-20 14:26:32	2011-04-20 14:26:32		Moscow Dog Map	NULL
+121	2011-05-13 10:34:54	2011-05-13 10:34:54	Map of Solkam by adm.solkam.ru	Solkam	NULL
+122	2011-05-13 19:52:28	2011-05-13 19:52:28		cordoba test	NULL
+123	2011-05-19 14:00:36	2011-05-19 14:00:36		BK01	NULL
+124	2011-05-22 15:12:15	2011-05-22 15:12:15		NYC	NULL
+125	2011-05-28 08:21:02	2011-05-28 08:21:02	nbtest	NBtest	NULL
+126	2011-06-14 22:39:14	2011-05-30 12:47:22	Warstwa ze starymi mapami wojskowymi	Poland-MapyWojskowe	19.541149,49.080560,20.092728,49.329120
+128	2011-07-08 23:59:21	2011-07-08 23:59:21	Pohnpei, FSM	Pohnpei	NULL
+129	2011-07-09 00:02:47	2011-07-09 00:02:47		Pohnpei	NULL
+130	2011-07-09 00:03:53	2011-07-09 00:03:53		Pohnpei	NULL
+134	2011-07-17 00:59:01	2011-07-17 00:59:01		Schwabing2020	NULL
+135	2011-07-19 16:05:59	2011-07-19 16:05:59		map	NULL
+138	2011-08-01 08:28:35	2011-08-01 08:09:21	Ð“Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð¿Ð¾ÑÐµÐ»ÐµÐ½Ð¸Ð¹ (admin_level=8 Ð² openstreetmap).	Mari-el administrative boundaries (admin_level=8 in osm)	47.094320,56.214995,49.144523,57.183327
+139	2011-08-01 09:40:49	2011-08-01 09:13:39	Four images taken by the astronauts onbaord the ISS starting at the city center of Sirt and moving east from the city across the agricultural development there.	Sirt, Libya	16.490687,31.095235,16.962039,31.256433
+140	2011-09-16 09:57:04	2011-09-16 09:57:02		layer1	13.062744,48.976330,13.064930,48.977234
+141	2011-09-23 22:46:59	2011-09-23 22:46:59	ÐºÐ°Ñ€Ñ‚Ð°\n	alexs	NULL
+142	2011-09-29 08:37:41	2011-09-29 08:37:41		ggg	NULL
+143	2011-10-18 07:59:34	2011-10-18 07:59:34	Hauptbahnhof	Stuttgart	NULL
+144	2011-11-05 15:04:33	2011-11-05 15:04:33		ADK	NULL
+146	2011-12-10 08:47:29	2011-12-10 08:47:29		123	NULL
+147	2011-12-26 04:38:02	2011-12-26 04:38:02	Fork Mountain quadrangle USGS topographic DLG map.	Fork_Mountain_WV_USGS_Topo	NULL
+148	2012-02-19 10:58:09	2012-02-19 10:58:09	Map of the hiking trails in Bristol Woods County Park	Bristol Woods	NULL
+149	2012-02-20 02:32:33	2012-02-20 02:32:33		test	NULL
+152	2012-05-14 14:37:35	2012-05-14 14:37:35	Civil War camps 1861-62	Neabsco	NULL
+154	2012-06-07 14:13:57	2012-06-07 14:13:57		test	NULL
+156	2012-06-14 23:17:25	2012-06-14 23:17:25	Try1	Try1	NULL
+158	2012-07-24 20:55:46	2012-07-24 20:55:46	å¤ªç”°å·æ”¾æ°´è·¯èˆªç©ºå†™çœŸï¼ˆSï¼‘ï¼”ï¼‰	S14	NULL
+159	2012-08-03 19:47:38	2012-08-03 19:47:38		duke farms	NULL
+160	2012-08-06 10:38:08	2012-08-06 10:38:08		Kozjanski park	NULL
+161	2012-08-11 09:12:56	2012-08-11 09:12:56	Waidmarkt, kÃ¶ln	Waidmarkt	NULL
+166	2012-10-19 02:44:15	2012-10-19 02:44:15	hist. luxemb. Grenzen	LFAG	NULL
+167	2012-10-22 14:56:00	2012-10-22 14:56:00		Jantzen	NULL
+168	2012-11-11 08:23:34	2012-11-11 08:23:33	kk	test	-0.373499,39.478927,-0.344701,39.496126
+169	2012-11-11 16:18:51	2012-11-11 16:18:51	just a try	prb	NULL
+170	2012-12-02 11:10:57	2012-12-02 11:10:57	Roskosmos	Solnechniy	NULL
+171	2012-12-22 02:23:42	2012-12-22 02:23:42		Albe	NULL
+172	2012-12-30 15:45:01	2012-12-30 15:45:00		Morrisburg layer	-75.185862,44.890952,-75.172225,44.897408
+174	2013-01-09 06:40:03	2013-01-06 06:34:56		Plan tcat	4.008919,48.304829,4.106459,48.339926
+175	2013-01-10 02:07:54	2013-01-10 02:07:54		test	NULL
+176	2013-04-07 16:02:56	2013-04-07 16:02:56	Imagen Aster de inundaciÃ³n en La Plata 2013-04-04	La Plata - Argentina - 2013-04-04	NULL
+177	2013-06-18 11:49:37	2013-06-18 11:49:37		Seattle 1891	NULL
+178	2013-09-05 00:18:24	2013-09-05 00:18:24		Test66	NULL
+179	2013-09-05 00:21:50	2013-09-05 00:21:50		T3	NULL
+181	2013-10-18 14:07:44	2013-10-18 14:07:44		leiden	NULL
+182	2013-10-28 04:07:34	2013-10-28 04:07:34	wewe	new	NULL
+183	2014-08-20 15:08:44	2014-08-20 15:08:44	Red dot = white, blue = black, orange = hispanic	Races in Washington DC	NULL
+184	2015-03-30 07:47:37	2015-03-30 07:47:37		Charix Nord	NULL
+185	2016-04-17 13:56:25	2016-04-17 13:55:31		Ecuador	NULL
